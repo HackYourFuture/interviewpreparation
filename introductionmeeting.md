@@ -1,8 +1,6 @@
 # The introduction meeting
 
-During the introduction meeting, the company wants to get to know you and your motivations, see how you communicate technical and non-technical matters, and see for themselves if you really fit into their company’s culture. 
-
-This interview usually feels more like a conversation than an actual skills test as the interviewer will try to answer a few basic questions about you:
+During the introduction meeting, the company wants to get to know you and your motivations, see how you communicate technical and non-technical matters, and see for themselves if you really fit into their company’s culture. This interview usually feels more like a conversation than an actual skills test as the interviewer will try to answer a few basic questions about you just like:
 
 - Are you a nice, likeable person?
 - Would you work well inside the existing team?
@@ -11,20 +9,8 @@ This interview usually feels more like a conversation than an actual skills test
 - Do you seem smart and can you communicate well?
 - Do you have the right mindset for a junior developer?
 - Up to what degree can you work independently?
-- ...
 
-While the interviewer could ask you these questions directly, they will most likely ask proxy questions to try to discover the answers for themselves. A few of the most common questions you can expect are:
-
-- What kind of technologies are you excited to learn more about?
-- Can you tell us about a cool project you completed recently?
-- What is your favourite programming language and why?
-- What do you know about the company and why do you want this job?
-- Why should we hire you?
-- …
-
-As a Junior developer, the extent to which you are curious and excited about technology and the company you are interviewing at is a good predictor of whether you would be a good fit for the company.
-
-For a successful introduction meeting, It’s important to prepare as much as possible. To help you do just that, here the 8 most important tips:
+While the interviewer could ask you these (or other) questions directly, they will most likely ask proxy questions to try to discover the answers for themselves.  As a Junior developer, the extent to which you are curious and excited about technology and the company you are interviewing at is a good predictor of whether you would be a good fit for the company. For a successful introduction meeting, It’s important to prepare as much as possible. To help you do just that, here the 8 most important tips:
 
 1. Go armed with knowledge
 2. Be friendly, curious, and conversational. 
