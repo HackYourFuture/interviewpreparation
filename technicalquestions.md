@@ -27,7 +27,7 @@ Here a list of the most common technical questions we’ve seen separated per mo
 
 ## Javascript
 
-- Using JavaScript, how do we insert text into an HTML \“<div>”\ element with an “id” of “target"?
+- Using JavaScript, how do we insert text into an HTML \<div> element with an “id” of “target"?
 - Name two ways of accessing “properties” on an object
 - What is “asynchronicity” and what’s one way in JavaScript how we can introduce it into our application?
 - What is AJAX?
