@@ -13,7 +13,7 @@ Here a list of the most common technical questions we’ve seen separated per mo
 - What is the DOM?<br>
 
 ### More HTML resources:
--[HTML5 Interview Questions and Answers](https://github.com/learning-zone/html-interview-questions)<br>
+- [HTML5 Interview Questions and Answers](https://github.com/learning-zone/html-interview-questions)<br>
 
 ## CSS
 
@@ -29,7 +29,7 @@ Here a list of the most common technical questions we’ve seen separated per mo
 - How can you make a webpage “responsive”?
 
 ### More CSS resources:
--[Front end Interview Questions](https://github.com/khan4019/front-end-Interview-Questions#css-basics-and-tricky-questions)<br>
+- [Front end Interview Questions](https://github.com/khan4019/front-end-Interview-Questions#css-basics-and-tricky-questions)<br>
 
 ## Javascript
 
