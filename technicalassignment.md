@@ -8,7 +8,7 @@ At first technical assignments might seem like a daunting challenge, but underst
 
 Technical assignments are usually a simulation of the work you'll be doing for that company and they give the hiring manager an understanding of your skill set. Starting your internship or job with real understanding of your skills will help you in the short term as the company will know how much support you will need moving forward.
  
-In [this folder](https://github.com/HackYourFuture/post-grad-ed/tree/master/technical-assignments) you'll find references to various real technical assignments companies used in the past to test job applicants. Additionally, check Fayz Ahmed’s [“List of assignments I was given when interviewing for companies”].
+In [this folder](https://github.com/HackYourFuture/post-grad-ed/tree/master/technical-assignments) you'll find references to various real technical assignments companies used in the past to test job applicants. Additionally, check Fayz Ahmed’s [“List of assignments I was given when interviewing for companies”](https://dev.to/fayaz/a-list-of-assignments-i-was-given-when-interviewing-for-companies-1opm).
 
 ## A few important things to keep in mind when working on technical assignments:
 - It might happen that the company expects you to use a technology or framework you don’t know. If this is the case, you can always ask to use a technology you feel more comfortable with but it might also be the case that the company wants to see how well/fast you can adapt to new things and learn.
