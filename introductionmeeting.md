@@ -1,4 +1,4 @@
-# 1. The introduction meeting
+# The introduction meeting
 
 During the introduction meeting, the company wants to get to know you and your motivations, see how you communicate technical and non-technical matters, and see for themselves if you really fit into their company’s culture. 
 
