@@ -1,6 +1,6 @@
 # The introduction meeting
 
-![YourPersonalBrand](assets/videocall.jpg)
+![Videocall](assets/videocall.jpg)
 
 During the introduction meeting, the company wants to get to know you and your motivations, see how you communicate technical and non-technical matters, and see for themselves if you really fit into their company’s culture. This interview usually feels more like a conversation than an actual skills test as the interviewer will try to answer a few basic questions about you just like:
 
