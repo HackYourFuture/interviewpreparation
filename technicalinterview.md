@@ -1,6 +1,6 @@
 # The technical interview
 
-![TechnicalInterview](assets/interview.jpg)
+![TechnicalInterview](assets/interview2.jpg)
 
 In technical interviews you will most likely be asked technical questions about programming in general and the type of questions you will receive depend on what role you are applying for (front-end/backend/etc), and whether it’s for an internship or for a junior developer role. 
 
