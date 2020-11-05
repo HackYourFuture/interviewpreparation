@@ -1,5 +1,7 @@
 # The technical interview
 
+![TechnicalInterview](assets/interview.jpg)
+
 In technical interviews you will most likely be asked technical questions about programming in general and the type of questions you will receive depend on what role you are applying for (front-end/backend/etc), and whether it’s for an internship or for a junior developer role. 
 
 To prepare for this interview, we strongly recommend you go through [The Most Common Technical Questions for HYF Graduates](/technicalquestions.md) and not only check that you can answer all the theoretical questions but also that you can do some of the challenges in the additional resource.
