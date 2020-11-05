@@ -1,5 +1,7 @@
 # The technical assignment
 
+![TechnicalAssignment](assets/assignment.jpg)
+
 It’s very likely that the company you are applying to will give you a technical assignment to be completed in 2-6 days. Your performance on the assignment will determine to a large extent whether you will get the internship or job.
 
 At first technical assignments might seem like a daunting challenge, but understanding the mechanics and learning the right approach will help you feel more relaxed and confident about them. 
