@@ -1,4 +1,4 @@
-# How to Answer the Most Common Interview Questions ##
+# The Most Common Non-Technical Questions for HYF Graduates
 
 Wouldn't it be great if you knew exactly what a hiring manager would be asking you in your next interview?
 While we unfortunately can't read minds, we'll give you the next best thing: a list of the most commonly asked interview questions and answers. 
