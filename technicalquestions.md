@@ -12,7 +12,7 @@ Here a list of the most common technical questions we’ve seen separated per mo
 - Can you name one use case for the <iframe /> tag?<br>
 - What is the DOM?<br>
 
-### Other HTML resources:
+### More HTML resources:
 -[HTML5 Interview Questions and Answers](https://github.com/learning-zone/html-interview-questions)<br>
 
 ## CSS
@@ -28,7 +28,7 @@ Here a list of the most common technical questions we’ve seen separated per mo
 - What are pseudo-classes? Give 2 examples.
 - How can you make a webpage “responsive”?
 
-### Other CSS resources:
+### More CSS resources:
 -[Front end Interview Questions](https://github.com/khan4019/front-end-Interview-Questions#css-basics-and-tricky-questions)<br>
 
 ## Javascript
@@ -46,7 +46,7 @@ Here a list of the most common technical questions we’ve seen separated per mo
 - What is the “window” object?
 - How does form validation work?
 
-### Other JS resources:
+### More JS resources:
 
 - [123-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)<br>
 - [JavaScript Questions by Lydia Hallie](https://github.com/lydiahallie/javascript-questions)<br>
