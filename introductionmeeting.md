@@ -47,7 +47,7 @@ https://medium.com/airtribe/what-does-a-great-software-engineer-look-like-27ae75
 
 ## 3. Be honest...always!
 
-Junior Developers are almost never hired based on their domain knowledge, it is taken as a given that they don't have much of that yet so don't worry about what you don't know. If you don't know about a particular subject or technology or how to answer a question, say you don’t know. It’s also good practice to indicate that you would love to learn about that in the future or that you would get back to them on that point later in time (point 7 will give you some tips for that). 
+Junior Developers are almost never hired based on their domain knowledge, it is taken as a given that they don't have much of that yet so don't worry about what you don't know. If you don't know about a particular subject or technology or how to answer a question, say you don’t know. It’s also good practice to indicate that you would love to learn about that in the future or that you would get back to them on that point later in time (point 8 will give you some tips for that). 
 
 ## 4. Prepare for the most common interview questions.
 
