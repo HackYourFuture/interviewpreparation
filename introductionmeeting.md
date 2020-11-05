@@ -65,7 +65,7 @@ Subsequently, you need to provide examples and details to back up your arguments
 
 ***Example 1:***”I think I am a good developer because I constantly keep on learning new things. For instance, while studying at HYF I was not only revising the fundamentals of Javascript and React daily and working on assignments, but I was also studying English to be ready for a job as soon as possible. Also since I graduated, I’ve been redoing my most challenging HYF assignments but this time in Vue.js instead of React. I like to challenge myself and always learn new things!”
 
-***Example 1:***”I think I could be a great fit for Adyen. Besides being very passionate about payments as my background in finance shows, I am a strong believer in honest and efficient collaboration. As the Adyen formula states, “Winning is more important than ego” and that is exactly the way I love to work. For instance, when developing our graduation project on HYF my team and I [give a relevant example here].”
+***Example 2:***”I think I could be a great fit for Adyen. Besides being very passionate about payments as my background in finance shows, I am a strong believer in honest and efficient collaboration. As the Adyen formula states, “Winning is more important than ego” and that is exactly the way I love to work. For instance, when developing our graduation project on HYF my team and I [give a relevant example here].”
 
 
 ## 6. Prepare great questions 
