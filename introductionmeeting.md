@@ -97,20 +97,29 @@ After reading and watching all the content above, start practicing. Here some id
 
 Here an example:
 
-<code>
-Dear Mr./Ms. Last Name:
 
-Thanks a lot for your time today during the interview. I really enjoyed speaking with you about the web developer intern position at Adyen and learning more about the Adyen formula and the way you all work together. I think that this is very inspiring and it makes me think that the job is an excellent match for my skills and interests.
+<pre>Dear Mr./Ms. Last Name:
 
-During the interview you asked me why I preferred to work with React instead of Angular, and I feel now that my answer fell short. On top of what I mentioned about React being the framework I learned at HYF, I also find React to have more flexibility in building blocks, the documentation is more accessible for a junior developer like me and I really like the support of the large community that uses it. Nevertheless, I’m eager to learn so working with one or the other is practically the same for me.
+Thanks a lot for your time today during the interview. I really enjoyed speaking with you
+about the web developer intern position at Adyen and learning more about the Adyen formula
+and the way you all work together. I think that this is very inspiring and it makes me think
+that the job is an excellent match for my skills and interests.
 
-Please feel free to contact me if I can provide you with any further information or references and wish you a very nice day. 
+During the interview you asked me why I preferred to work with React instead of Angular,
+and I feel now that my answer fell short. On top of what I mentioned about React being the
+framework I learned at HYF, I also find React to have more flexibility in building blocks,
+the documentation is more accessible for a junior developer like me and I really like the 
+support of the large community that uses it. Nevertheless, I’m eager to learn so working 
+with one or the other is practically the same for me.
+
+Please feel free to contact me if I can provide you with any further information or references 
+and wish you a very nice day. 
 
 Sincerely,
 
-Your Name
+Your Name</pre>
 
-</code>
+
 
 Now don’t be shy and [send the best possible thank-you email](https://www.thebalancecareers.com/thank-you-email-after-job-interview-2063958) after your interview! It will definitely help out!
 
