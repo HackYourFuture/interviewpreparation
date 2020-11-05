@@ -27,7 +27,7 @@ Prepare well and go get hired!
 - [The STAR interview technique](https://www.themuse.com/advice/star-interview-method)
 - [Body Language Tips for Your Next Job Interview](https://www.thebalancecareers.com/body-language-tips-for-your-next-job-interview-2060576)
 - [6 Bad Body Language Behaviors To Avoid](https://www.youtube.com/watch?v=sXAHwa1CWYw&ab_channel=TheExecuSearchGroup)
-- [The most common technical questions for HYF graduates](Add)
+- [The most common technical questions for HYF graduates](/technicalquestions.md)
 - [How to Ace an Online Job Interview](https://www.wired.com/story/tips-for-online-job-interviews/)!
 - [How to Write an Interview Thank-You Letter](https://www.thebalancecareers.com/how-to-write-an-interview-thank-you-letter-2063981)
 - [Best Thank-You Email After an Interview Examples](https://www.thebalancecareers.com/thank-you-email-after-job-interview-2063958) 
