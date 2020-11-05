@@ -1,3 +1,5 @@
+![InterviewPreparation](assets/interview.jpg)
+
 # Interview Preparation
 
 Interviews for internships or junior jobs usually consist of several steps: Thiy will usually start with a phone or email conversation, and then through the following rounds, though not necessarily in this order:
