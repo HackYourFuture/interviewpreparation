@@ -14,14 +14,14 @@ During the introduction meeting, the company wants to get to know you and your m
 
 While the interviewer could ask you these (or other) questions directly, they will most likely ask proxy questions to try to discover the answers for themselves.  As a Junior developer, the extent to which you are curious and excited about technology and the company you are interviewing at is a good predictor of whether you would be a good fit for the company. For a successful introduction meeting, It’s important to prepare as much as possible. To help you do just that, here the 8 most important tips:
 
-1. Go armed with knowledge
-2. Be friendly, curious, and conversational. 
-3. Be honest...always!
-4. Prepare for the most common interview questions.
-5. Prepare some STAR stories
-6. Prepare great questions
-7. Practice, practice, practice!
-8. Send a thank-you email
+[1. Go armed with knowledge](https://github.com/HackYourFuture/interviewpreparation/blob/main/introductionmeeting.md#1-go-armed-with-knowledge)
+[2. Be friendly, curious, and conversational](https://github.com/HackYourFuture/interviewpreparation/blob/main/introductionmeeting.md#2-be-friendly-curious-and-conversational) 
+[3. Be honest...always!](https://github.com/HackYourFuture/interviewpreparation/blob/main/introductionmeeting.md#3-be-honestalways)
+[4. Prepare for the most common interview questions](https://github.com/HackYourFuture/interviewpreparation/blob/main/introductionmeeting.md#4-prepare-for-the-most-common-interview-questions)
+[5. Prepare some STAR stories](https://github.com/HackYourFuture/interviewpreparation/blob/main/introductionmeeting.md#5-prepare-star-stories)
+[6. Prepare great questions](https://github.com/HackYourFuture/interviewpreparation/blob/main/introductionmeeting.md#6-prepare-great-questions)
+[7. Practice, practice, practice!](https://github.com/HackYourFuture/interviewpreparation/blob/main/introductionmeeting.md#7-practice-practice-practice)
+[8. Send a thank-you email](https://github.com/HackYourFuture/interviewpreparation/blob/main/introductionmeeting.md#8-send-a-thank-you-email)
 
 With no further due, let's get started!
 
