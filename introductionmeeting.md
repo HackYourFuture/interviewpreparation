@@ -53,7 +53,7 @@ Junior Developers are almost never hired based on their domain knowledge, it is 
 
 ## 4. Prepare for the most common interview questions.
 
-The Internet is flooded with great resources on how to prepare for the most common interview questions. Besides our own [“How to Answer the Most Common Interview Questions”](https://github.com/HackYourFuture/alumni/blob/master/28-questions.md) guide you should also read [“Top 10 Job Interview Questions and Best Answers”](https://www.thebalancecareers.com/top-interview-questions-and-best-answers-2061225) and [“10 Common Behavioral Interview Questions”](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618).
+The Internet is flooded with great resources on how to prepare for the most common interview questions. Besides our guide with [“The Most Common Non-Technical Questions for HYF Graduates”](/nontechquestions.md) you should also read [“Top 10 Job Interview Questions and Best Answers”](https://www.thebalancecareers.com/top-interview-questions-and-best-answers-2061225) and [“10 Common Behavioral Interview Questions”](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618).
 
 ## 5. Prepare STAR stories
 
@@ -63,9 +63,9 @@ In short, it is very important that during the interview you backup all of your 
 
 Subsequently, you need to provide examples and details to back up your arguments. For instance:
 
-***Example 1:***”I think I am a good developer because I constantly keep on learning new things. For instance, while studying at HYF I was not only revising the fundamentals of Javascript and React daily and working on assignments, but I was also studying English to be ready for a job as soon as possible. Also since I graduated, I’ve been redoing my most challenging HYF assignments but this time in Vue.js instead of React. I like to challenge myself and always learn new things!”
+***Example 1:*** ”I think I am a good developer because I constantly keep on learning new things. For instance, while studying at HYF I was not only revising the fundamentals of Javascript and React daily and working on assignments, but I was also studying English to be ready for a job as soon as possible. Also since I graduated, I’ve been redoing my most challenging HYF assignments but this time in Vue.js instead of React. I like to challenge myself and always learn new things!”
 
-***Example 2:***”I think I could be a great fit for Adyen. Besides being very passionate about payments as my background in finance shows, I am a strong believer in honest and efficient collaboration. As the Adyen formula states, “Winning is more important than ego” and that is exactly the way I love to work. For instance, when developing our graduation project on HYF my team and I [give a relevant example here].”
+***Example 2:*** ”I think I could be a great fit for Adyen. Besides being very passionate about payments as my background in finance shows, I am a strong believer in honest and efficient collaboration. As the Adyen formula states, “Winning is more important than ego” and that is exactly the way I love to work. For instance, when developing our graduation project on HYF my team and I [give a relevant example here].”
 
 
 ## 6. Prepare great questions 
