@@ -125,5 +125,6 @@ Your Name</pre>
 
 Now don’t be shy and [send the best possible thank-you email](https://www.thebalancecareers.com/thank-you-email-after-job-interview-2063958) after your interview! It will definitely help out!
 
+<br>
 
-***Ready to learn more about the technical assignment?*** Then [click here!]()
+***Ready to learn more about the technical assignment?*** Then [click here!](/technicalassignment.md)
