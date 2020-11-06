@@ -33,3 +33,5 @@ By being honest and open you show that you’re easy to talk to. It also means y
 
 ## Double check your solutions
 When presented with a coding problem, do your best to make it the best you can. Make a plan of action and then execute. Before you submit it, however, always double check your solution: did you make any spelling mistakes? Did you write the code clean? Is the logic sound? If done right, this shows the interviewer that you take your work seriously. 
+
+***Ready to learn more about the technical assignment?*** Then [click here!](/technicalassignment.md)
