@@ -127,4 +127,4 @@ Now don’t be shy and [send the best possible thank-you email](https://www.theb
 
 <br>
 
-***Ready to learn more about the technical assignment?*** Then [click here!](/technicalassignment.md)
+***Ready to learn more about the technical interview?*** Then [click here!](/technicalinterview.md)
