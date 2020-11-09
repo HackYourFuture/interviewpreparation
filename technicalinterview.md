@@ -34,4 +34,16 @@ By being honest and open you show that you’re easy to talk to. It also means y
 ## Double check your solutions
 When presented with a coding problem, do your best to make it the best you can. Make a plan of action and then execute. Before you submit it, however, always double check your solution: did you make any spelling mistakes? Did you write the code clean? Is the logic sound? If done right, this shows the interviewer that you take your work seriously. 
 
+## Explain code from high level to low level
+Often a interviewer will take a piece of code from one of your projects and ask some questions about it. It's important to keep in mind to explain from a high level to a lower level. First start of with stating the context of this code, where is it located? Why is it relevant there? Then continue with why this code had to be written. Once you explained those things it's time to go into more detail, what is exactly happening? Which functions are used and what do they do?
+
+An example:
+
+```js
+const activeUsers = users.filter(user => user.active);
+const filteredUsers = activeUsers.map(user => ({ id: user.id, name: user.name }));
+```
+
+>In this route we are sending user data to the client, we don't want to send hidden user data and we don't want to send data of inactive users. So this code first filters out the active users, and then takes some whitelisted properties that can be shared with the client. To go in more detail, I've used the Javascript `filter` function to filter out users based on their `active` status, all the active accounts will be combined in a new array and stored in `activeUsers`. This new array is then used for a `map` loop, every user is a Javascript object and the `map` makes sure to only take two properties from the original object and put those properties in a new object. The results is `filteredUsers` which has only active users and consists of an array of user object with only an id and name property.
+
 ***Ready to learn more about the technical assignment?*** Then [click here!](/technicalassignment.md)
