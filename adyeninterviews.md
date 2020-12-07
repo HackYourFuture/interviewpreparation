@@ -35,7 +35,7 @@ Someone from the HackYourFuture team will share the available spots to book the 
 ### What if I cannot attend an interview that I already committed to?
 Mock interviews should be treated as real ones, so we expect that you will take them seriously and commit to them. Having said that, if for any emergency you cannot attend, please let the HackYourFuture team know as soon as possible and ideally try to swap the appointment with another student so that we do not waste anyone’s time and assure we make the most out of this great opportunity!
 
-## Information for Interviewers
+## Information for Adyen Interviewers
 ![AdyenInterviews](assets/cover2.jpg)
 
 First of all, thanks a lot for helping our students improve their interviewing skills. It is very inspiring to see how you and many of your colleagues are making time in your busy agendas to help others. In this repo, we will try to cover all the important aspects we learned while working on the first round of Mockup interviews and some practical aspects on how to conduct them.
