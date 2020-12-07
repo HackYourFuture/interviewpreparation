@@ -6,7 +6,8 @@ Interviews for internships or junior jobs usually consist of several steps: Thiy
 
 [1. The introduction meeting](/introductionmeeting.md) <br>
 [2. The technical interview](/technicalinterview.md) <br>
-[3. The technical assignment](/technicalassignment.md)
+[3. The technical assignment](/technicalassignment.md) <br>
+[4. Mockup interviews at Adyen](/adyeninterviews.md)
 
 Some companies merge these interviews together, while others might split them over multiple interviews. While it can be daunting to approach an interview process when you don’t quite know what to expect, luckily there are ways to be prepared. 
 
