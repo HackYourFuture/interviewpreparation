@@ -4,7 +4,7 @@
 
 As with every skill, talent, and expertise, the more you do it, the better you’ll be at it. Yes, the old saying is indeed true: Practice makes perfect—particularly with job interviews. That’s why throughout your studies at HackYourFuture, you will have the opportunity to practice your interviewing skills with the HackYourFuture team and with recruiters and engineers at, one of our main sponsors. 
 
-This repo is made for [students]() to learn how to prepare for these practices and for [interviewers from Adyen]() to learn best practices and get a better understanding of what we are trying to achieve with your help.
+This repo is made for [students](https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md#information-for-students) to learn how to prepare for these practices and for [Adyen employees](https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md#information-for-interviewers) to learn best practices and get a better understanding of what we are trying to achieve with your help.
 
 ## Information for Students
 Please go through the information below to make the most out of your Mock Interviews!
@@ -16,15 +16,12 @@ A mock interview is an emulation of a job interview used for training purposes. 
 The mockup interviews will start together with the Node module and each student will receive a total of two social and two technical interviews. These interviews will last approximately 30-40 minutes and right after the interview, you will receive both verbal and written feedback on how you did and how you can improve further.
 
 ### How can I prepare for the interviews?
-First and foremost, you should work on your [‘personal brand’](https://github.com/HackYourFuture/yourpersonalbrand) and submit your CV as indicated [here](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md). Next, check the [Interview Preparation Repo](https://github.com/HackYourFuture/interviewpreparation) made especially for HackYourFuture students. Once you are done with all that documentation, look at the specifics of the mockup interview role [here](https://careers.adyen.com/vacancies/development/510980/frontend-software-engineer) or here if the role is offline.
+First and foremost, you should work on your [‘personal brand’](https://github.com/HackYourFuture/yourpersonalbrand) and submit your CV as indicated [here](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md). Next, check the [Interview Preparation Repo](https://github.com/HackYourFuture/interviewpreparation) made especially for HackYourFuture students. Once you are done with all that documentation, look at the specifics of the mockup interview role [here](https://careers.adyen.com/vacancies/development/510980/frontend-software-engineer) or [here](assets/cover.jpg) if the role is offline.
 
 Last but not least, check the written feedback you’ve been given before any new interview so that you are sure you improve upon the committed points. To HackYourFuture team will give you access to a doc that will include all the specific feedback from each of the 4 interviews.
 
 ### What is the scope of the Social Interviews and what kind of questions can I expect?
 During the Social Interview (aka [the introduction meeting](https://github.com/HackYourFuture/interviewpreparation/blob/main/introductionmeeting.md)), the interviewer will want to get to know you and your motivation, see how you communicate technical and non-technical matters, and see for themselves if you really fit into their company’s culture. This interview usually feels more like a conversation than an actual skills test. While there is no fixed set of questions you can expect in any interview as every interviewer has their own approach, you can still prepare for [the most common non-technical questions for HYF graduates](https://github.com/HackYourFuture/interviewpreparation/blob/main/nontechquestions.md). 
-
-
-
 
 ### What is the scope of the Tech Interviews and what kind of questions can I expect?
 During the Tech interview (aka the [technical interview](https://github.com/HackYourFuture/interviewpreparation/blob/main/technicalinterview.md)) you will most likely be asked technical questions about the curriculum in general. To prepare for this interview, we strongly recommend you go through [the most common technical questions for HYF graduates](https://github.com/HackYourFuture/interviewpreparation/blob/main/technicalquestions.md) and have some projects or code ready to show and explain to the interviewer.
@@ -45,7 +42,7 @@ First of all, thanks a lot for helping our students improve their interviewing s
 At HackYourFuture we support people with a distance to the labor market find quality employment because we believe in a world where people’s drive and potential, and not their background, should define their career opportunities. HackYourFuture is built on four core values, which form the ethical framework in which we try to realize our mission. Our core values should guide us all: the core team, students, and mentors. We ask everyone involved in our community to abide by these values so that we can together be sure that no talent goes to waste. To learn more about our mission, Vision and Values, please check [this repo](https://github.com/HackYourFuture/values).
 
 ### The Sample position
-Students will prepare for the Frontend Software Engineer role posted [here](https://careers.adyen.com/vacancies/development/510980/frontend-software-engineer) or here if the role is offline.
+Students will prepare for the Frontend Software Engineer role posted [here](https://careers.adyen.com/vacancies/development/510980/frontend-software-engineer) or [here](assets/cover.jpg) if the role is offline.
 
 ### Social Interview Scope
 If you want some guidance for this interview, check [the most common non-technical questions for HYF graduates](https://github.com/HackYourFuture/interviewpreparation/blob/main/nontechquestions.md). Still, feel free to stick to your own interviewing style. 
