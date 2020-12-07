@@ -16,7 +16,7 @@ A mockup interview is a simulation of a job interview used for training purposes
 The mockup interviews will start together with the Node module and each student will receive a total of two social and two technical interviews. These interviews will last approximately 30-40 minutes and right after the interview, you will receive both verbal and written feedback on your performance with suggestions to improve further.
 
 ### How should I prepare for the interviews?
-First and foremost, you should work on your [‘personal brand’](https://github.com/HackYourFuture/yourpersonalbrand) and submit your CV as indicated [here](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md). Next, check the [Interview Preparation Repo](https://github.com/HackYourFuture/interviewpreparation) specifically made for you and your classmates. Once you are done, look at the specifics of the mockup interview job profile [here](https://careers.adyen.com/vacancies/development/510980/frontend-software-engineer) or [here](assets/cover.jpg) if the role is offline.
+First and foremost, you should work on your [‘personal brand’](https://github.com/HackYourFuture/yourpersonalbrand) and submit your CV as indicated [here](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md). Next, check the [Interview Preparation Repo](https://github.com/HackYourFuture/interviewpreparation) specifically made for you and your classmates. Once you are done, look at the specifics of the mockup interview job profile [here](https://careers.adyen.com/vacancies/development/510980/frontend-software-engineer) or [here](assets/samplerole.png) if the role is offline.
 
 Last but not least, check the written feedback you’ve been given before any new interview so that you are sure you improve upon the provided feedback. The HackYourFuture team will give you access to a doc that will include all your personal feedback from each of the 4 interviews.
 
@@ -44,7 +44,7 @@ First of all, thanks a lot for helping our students improve their interviewing s
 At HackYourFuture we support people with a distance to the labor market find quality employment. We believe in a world where people’s drive and potential, and not their background, defines their career opportunities. HackYourFuture is built on four core values, which form the ethical framework in which we try to realize our mission. Our core values should guide us all: the core team, students, and mentors. We ask everyone involved in our community to abide by these values so that we can together be sure that no talent goes to waste. To learn more about our mission, Vision and Values, please check [this repo](https://github.com/HackYourFuture/values).
 
 ### The Sample position
-Students will prepare for the Frontend Software Engineer role posted [here](https://careers.adyen.com/vacancies/development/510980/frontend-software-engineer) or [here](assets/cover.jpg) if the role is offline.
+Students will prepare for the Frontend Software Engineer role posted [here](https://careers.adyen.com/vacancies/development/510980/frontend-software-engineer) or [here](assets/samplerole.png) if the role is offline.
 
 ### Social Interview Scope
 If you want some guidance for this interview, check [the most common non-technical questions for HYF graduates](https://github.com/HackYourFuture/interviewpreparation/blob/main/nontechquestions.md). Still, feel free to stick to your own style of interviewing. 
