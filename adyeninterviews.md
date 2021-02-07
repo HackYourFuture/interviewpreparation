@@ -29,6 +29,15 @@ During the Tech interview (aka the [technical interview](https://github.com/Hack
 ### Is there any other advice I should follow when preparing for interviews? 
 Revise the content of the [HackYourFuture Values](https://github.com/HackYourFuture/values) and have some examples ready to show how they are helping you become a better developer!
 
+### Some great advice from Viivi Reinikainen, Global recruiter at Adyen:
+
+ > Like for every job interview, preparation is the key. Therefore, it is good to know that at Adyen we do not only hire for skills but really want to get to know you as a person to find out whether you are a fit with our company culture.   Therefore, during this interview we would like to hear more about your ambitions, preferred way of working and why you would like to join Adyen. What does excite you about the payment industry and working in an international environment? What do you already know about Adyen? Additionally, we’d love you to read our Adyen Formula. These eight core principles guide how we work together and help ensure we keep our focus on our merchants, on changing the payments landscape, and having fun while doing it. 
+ 
+Here are some useful links, hopefully these help you with your preparations:
+- [Unobvious stories](https://www.youtube.com/playlist?list=PL6agz7H5yEoZY30Dqz8WVTd8Z9bHJZEKV)
+- [Adyen Formula](https://www.youtube.com/watch?v=1jHb5lOnJw8)
+- [Payments 1-0-1](https://www.youtube.com/watch?v=RyLshWxqlzs&list=PL6agz7H5yEoaeiP2cqvAOk_yJN3LF_q_X&index=1)
+
 ### When and where will the interviews be?
 The HackYourFuture team will share the available timeslots for the mockup interviews in your class Slack Channel. They will also share with you a specific link to a Jitsi channel where the interview will be conducted. Once you reserve a timeslot be sure to save the date and time in your calendar and please join the interview at least a few minutes before.
 
