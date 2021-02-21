@@ -18,12 +18,10 @@ In this repo we will go through the different types of interviews and offer you 
 Prepare well and go get hired!
 
 ## Resources linked in this repo
-- [How to Answer the Most Common Interview Questions](https://github.com/HackYourFuture/alumni/blob/master/28-questions.md)
 - [Top 10 Job Interview Questions and Best Answers](https://www.thebalancecareers.com/top-interview-questions-and-best-answers-2061225)
 - [How to Research a Company](https://www.youtube.com/watch?v=9PIQkTlsofI)
 - [What does a great software engineer look like?](https://medium.com/airtribe/what-does-a-great-software-engineer-look-like-27ae75eabf79)
 - [The 6 Qualities that Hiring Managers Look for in Junior Devs’](https://www.startupinstitute.com/blog/2016-04-13-qualities-of-a-good-developer-karl-hughes)
-- [How to Answer the Most Common Interview Questions](https://github.com/HackYourFuture/alumni/blob/master/28-questions.md)
 - [Top 10 Job Interview Questions and Best Answers](https://www.thebalancecareers.com/top-interview-questions-and-best-answers-2061225)
 - [10 Common Behavioral Interview Questions](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618)
 - [The STAR interview technique](https://www.themuse.com/advice/star-interview-method)
