@@ -17,6 +17,8 @@ In this repo we will go through the different types of interviews and offer you 
 
 Prepare well and go get hired!
 
+***Pro Tip: Build confidence through [Mr. Simon's mock interview](https://mrsimon.ai/) with common questions from real job interviews!***
+
 ## Resources linked in this repo
 - [Top 10 Job Interview Questions and Best Answers](https://www.thebalancecareers.com/top-interview-questions-and-best-answers-2061225)
 - [How to Research a Company](https://www.youtube.com/watch?v=9PIQkTlsofI)
