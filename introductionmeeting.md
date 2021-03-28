@@ -36,12 +36,11 @@ Also look at the job posting (if available) and check the technologies they use 
 
 Research the industry the company is in and also for bonus points find out who their competitors are and create informed opinions about both. For instance, if applying for a job at Adyen, it would be smart of you to understand the payment’s arena and how they compare to other companies offering similar products and services. Remember that all the information you might need is just [a few search queries away](https://lmgtfy.app/?q=who+are+adyens+competitors).
 
-If you’re still unclear about the why and how of researching a company, take a look at the [‘How to Research a Company’](https://www.youtube.com/watch?v=9PIQkTlsofI) video by 
-Natalie Fisher.
+If you’re still unclear about the why and how of researching a company, take a look at the [‘How to Research a Company’](https://www.youtube.com/watch?v=9PIQkTlsofI) video by Natalie Fisher.
 
-## 2. Be friendly, curious, and conversational. 
+## 2. Be friendly, curious, and conversational
 
-The introduction meeting is your opportunity to demonstrate a passion for what you do. The one thing Junior Developers will never have an excuse for is not having any passion for the job. Explain to the interview why you need to be working in this field and show the energy you can bring to the company. While the interviewer knows you are not an expert with decades of experience, they do want to see that you are eager to learn, that you know how to voice your opinion in constructive ways and that you are flexible enough to work well in an environment where everyone else most likely knows a bit (or possibly a lot) more about the job athan you do.
+The introduction meeting is your opportunity to demonstrate a passion for what you do. The one thing Junior Developers will never have an excuse for is not having any passion for the job. Explain to the interview why you need to be working in this field and show the energy you can bring to the company. While the interviewer knows you are not an expert with decades of experience, they do want to see that you are eager to learn, that you know how to voice your opinion in constructive ways and that you are flexible enough to work well in an environment where everyone else most likely knows a bit (or possibly a lot) more about the job than you do.
 
 We strongly recommend that you read [“What does a great software engineer look like?”](
 https://medium.com/airtribe/what-does-a-great-software-engineer-look-like-27ae75eabf79) and [“The 6 Qualities that Hiring Managers Look for in Junior Devs’](https://www.startupinstitute.com/blog/2016-04-13-qualities-of-a-good-developer-karl-hughes) and prepare a few examples of how you showed some of those qualities in the past. 
@@ -51,13 +50,13 @@ https://medium.com/airtribe/what-does-a-great-software-engineer-look-like-27ae75
 
 Junior Developers are almost never hired based on their domain knowledge, it is taken as a given that they don't have much of that yet so don't worry about what you don't know. If you don't know about a particular subject or technology or how to answer a question, say you don’t know. It’s also good practice to indicate that you would love to learn about that in the future or that you would get back to them on that point later in time (point 8 will give you some tips for that). 
 
-## 4. Prepare for the most common interview questions.
+## 4. Prepare for the most common interview questions
 
 The Internet is flooded with great resources on how to prepare for the most common interview questions. Besides our guide with [“The Most Common Non-Technical Questions for HYF Graduates”](/nontechquestions.md) you should also read [“Top 10 Job Interview Questions and Best Answers”](https://www.thebalancecareers.com/top-interview-questions-and-best-answers-2061225) and [“10 Common Behavioral Interview Questions”](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618).
 
 ## 5. Prepare STAR stories
 
-[The STAR interview technique](https://www.themuse.com/advice/star-interview-method) offers a straightforward format you can use to answer behavioral interview questions—those prompts that ask you to provide a real-life example of how you handled a certain kind of situation at work in the past.
+[The STAR interview technique](https://www.themuse.com/advice/star-interview-method) offers a straightforward format you can use to answer behavioral interview questions - those prompts that ask you to provide a real-life example of how you handled a certain kind of situation at work in the past.
 
 In short, it is very important that during the interview you backup all of your statements with specific evidence. Give at least one, but preferably two arguments to support every answer. So, if you are asked about your strengths, provide the interviewer with at least two strengths.
 
@@ -74,7 +73,7 @@ It's very likely that at the end of the interview the recruiter will ask if you 
 
 Be sure to prepare these questions in advance and that they are well informed! Asking about their tech stack when that is already mentioned on the job description or where the office is located will give the interviewer the impression you didn’t do your research and that will most likely play against you. Also, be sure to not only ask questions about the technical part of the job but also about the company’s culture, processes and maybe even about the interviewers opinion on the company. Here some good examples:
 
-***Example 1:*** “I saw in the Adyen website that you work as a team across cultures and time zones. This is super cool! Are the teams Agile or they follow Waterfall methodology?”
+***Example 1:*** “I saw in the Adyen website that you work as a team across cultures and time zones. This is super cool! Are the teams Agile or do they follow the Waterfall methodology?”
 
 ***Example 2:*** “As a junior developer, I find feedback on my work quite crucial as it really helps me improve my skills. This was crucial during my time at HYF. Do you know how developers on your team give each other feedback about their code and how often?”
 
