@@ -2,7 +2,7 @@
 
 ![InterviewPreparation](assets/interview.jpg)
 
-Interviews for internships or junior jobs usually consist of several steps: Thiy will usually start with a phone or email conversation, and then through the following rounds, though not necessarily in this order:
+Interviews for internships or junior jobs usually consist of several steps. They will usually start with a phone or email conversation, and then go through the following rounds, though not necessarily in this order:
 
 [1. The introduction meeting](/introductionmeeting.md) <br>
 [2. The technical interview](/technicalinterview.md) <br>
