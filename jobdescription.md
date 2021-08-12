@@ -13,7 +13,7 @@ YOU:
 - Not only thinks technology is very cool, but knows that the end user is always central;
 - Likes to explore new frameworks;
 - Have knowledge of HTML, CSS and Javascript;
-- Basic knowledge of Vuejs and Xpex framework;
+- Have a basic understanding of Vuejs and Xpex framework;
 - Are eager to learn and always open to new developments;
 - Master the English language verbally and in writing;
 - Affinity with social media, design and technology.
