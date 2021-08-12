@@ -1,5 +1,7 @@
 # Front-end Development Internship at HackYourFuture
 
+![Internship](assets/internsample.jpg)
+
 For our office in Amsterdam we are looking for an ambitious student who wants to work on digital platforms that are used by thousands of people.
 
 As a front-end intern you participate in the project teams as a full and indispensable member. We work with HTML5, SASS, ES6+, React, Vue and GIT. You don't have to be able to code them all fluently, but it's nice if some of these terms are not foreign to you. Of course you have to be technically in tip-top shape, but there is more to it: our front-enders must have a good sense of design and user experience. The internship will start next month, and you will work in Amsterdam. Of course we want to put you to the test, so working out a case is part of the application procedure.
