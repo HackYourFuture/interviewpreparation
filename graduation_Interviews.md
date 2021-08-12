@@ -15,7 +15,6 @@ Example 4: Work in an individual technical assignment while redoing the soft-ski
 
 In this repo we will give you all the information you need so that you can prepare for both these interviews well in advance and graduate as soon as possible.
 
-
 ## PART 1: The soft-skills graduation interview
 
 During this 20 minute conversation, the HYF team will interview you as if you were applying for a junior web developer role at “The HackYourFuture Company” [(See job description here)](https://github.com/HackYourFuture/interviewpreparation/blob/main/jobdescription.md). 
@@ -47,11 +46,32 @@ Think of this assessment as an actual interview for a real job with us, where th
 - Be sure your CV is 100% finished.
 - Practice, practice, practice!
 
-After the interview, the HYF team will let you know if you passed the assessment or not. If you did, congratulations! If you didn’t, this is just an indication that you will need to work more before we can graduate you and introduce you to companies. Think of it as an opportunity to improve your skills but now with more time given that there is no homework, and the graduation project should be almost finalised.
+## PART 2: The technical graduation assessment
 
-## PART 2: The technical graduation interview
+During the project as well as the 30-40 minute interview at the end, the HYF team will look at the level of your technical skills. The final interview will be, as in all the tech interviews in the curriculum, as close to real world tech interviews as possible.
 
-ADD INFO HERE
+### Interview steps
+- We will ask you to explain a couple of tech concepts. This can be anything that was mentioned in the curriculum
+- We will ask you to demo the final project to us as if we have never seen it
+- We will ask you to demo the code to explain how the app works
+- Lastly we will ask you some questions about the code. These are things like:
+    - Why did you use x?
+    - Shouldn’t that be written as x?
+    - How did you solve x?
+
+### To assess if you are ready to pass the technical, we will look at the following:
+- How did you perform in the project
+- How well did you answer the concept questions
+- How well did you explain your code
+- Could you understand and talk about the code easily
+
+### To prepare for this interview, you should:
+- Practice the demonstration of your project, make sure it is short and concise
+- Go through the curriculum and make sure that you can explain all the concepts discussed (The 'agenda' sections of every week gives you the names of all the concepts) 
+- Go through the code of the project and make sure you understand how it is built
+
+## Results
+A few days after the interview, the HYF team will let you know if you passed the assessment or not. If you did, congratulations! If you didn’t, this is just an indication that you will need to work more before we can graduate you and introduce you to companies. Think of it as an opportunity to improve your skills but now with more time given that there is no homework, and the graduation project should be almost finalised.
 
 Our mission at HackYourFuture is to help you find (and keep) a job you like and for that we need to be very straightforward when improvements are needed. We’ve helped almost 200 people start jobs at over 60 different companies, so you can trust that our feedback is only to help you improve. 
 
