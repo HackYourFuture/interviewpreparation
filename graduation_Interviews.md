@@ -16,7 +16,7 @@ In this repo we will give you all the information you need so that you can prepa
 
 ## PART 1: The soft-skills graduation interview:
 
-During this 20 minute conversation, the HYF team will interview you as if you were applying for a junior web developer role at “The HackYourFuture Company” (See job description here). 
+During this 20 minute conversation, the HYF team will interview you as if you were applying for a junior web developer role at “The HackYourFuture Company” [(See job description here)](https://github.com/HackYourFuture/interviewpreparation/blob/main/jobdescription.md). 
 
 Think of this assessment as an actual interview for a real job with us, where the interviewer can ask you basically any questions. The goal behind this is to assess if you are ready for real interviews and if not, make a plan with you to improve these crucial skills as soon as possible.
 
@@ -41,7 +41,7 @@ Think of this assessment as an actual interview for a real job with us, where th
 ### To prepare for this interview, you should:
 - Revise the [Interview Preparation repo](https://github.com/HackYourFuture/interviewpreparation) on GitHub and have your answers to the most common interview questions ready and perfected.
 - Revise all the feedback you received during your interviews at Adyen (to not make the same mistakes and actually improve on them).
-- Research the job description, the company (in this case HYF) and have great STAR stories, examples and questions ready for our talk.
+- Research the [job description](https://github.com/HackYourFuture/interviewpreparation/blob/main/jobdescription.md), the company (in this case HYF) and have great STAR stories, examples and questions ready for our talk.
 - Be sure your CV is 100% finished.
 - Practice, practice, practice!
 
