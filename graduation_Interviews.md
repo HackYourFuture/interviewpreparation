@@ -49,7 +49,7 @@ Think of this assessment as an actual interview for a real job with us, where th
 
 After the interview, the HYF team will let you know if you passed the assessment or not. If you did, congratulations! If you didn’t, this is just an indication that you will need to work more before we can graduate you and introduce you to companies. Think of it as an opportunity to improve your skills but now with more time given that there is no homework, and the graduation project should be almost finalised.
 
-# PART 2: The technical graduation interview
+## PART 2: The technical graduation interview
 
 ADD INFO HERE
 
