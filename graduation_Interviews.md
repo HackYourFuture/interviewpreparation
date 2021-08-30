@@ -2,7 +2,7 @@
 
 ![InterviewPreparation](assets/interviewgrad.jpg)
 
-To graduate from HackYourFuture, you will have to pass a soft-skills graduation interview as well as a technical interview with the HYF team (these could also be combined in only 1 meeting). 
+To graduate from HackYourFuture, you will have might have to pass a soft-skills graduation interview as well as a technical interview with the HYF team (these could also be combined in only 1 meeting). 
 
 If you pass these interviews and the graduation project is finalised, you will officially graduate and we will start sending your CV's to companies! Expect a lot of interviews and technical assignments coming your way!
 
