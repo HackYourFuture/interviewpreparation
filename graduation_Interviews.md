@@ -75,6 +75,8 @@ A few days after the interview, the HYF team will let you know if you passed the
 
 Our mission at HackYourFuture is to help you find (and keep) a job you like and for that we need to be very straightforward when improvements are needed. We’ve helped almost 200 people start jobs at over 60 different companies, so you can trust that our feedback is only to help you improve. 
 
+For more information about the possible paths before/after graduation, see the [week 7 info of the graduation project](https://github.com/HackYourFuture/Project/blob/master/week7/MAKEME.md).
+
 We look forward to having these interviews with you and moving forward through your HYF journey together!
 
 The HackYourFuture team
