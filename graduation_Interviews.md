@@ -36,7 +36,7 @@ Think of this assessment as an actual interview for a real job with us, where th
 - Do you use storytelling and STAR stories to back up your statements with real examples?
 - Do you use information from the company you are applying to (Mission, Vision, Values, News, etc), to show you’ve done your research and are motivated for the job?
 - Do you have good questions ready for the interviewer?
-- Is your CV 100% finishined? (Following the CV guidelines, with at least 4 good projects added including the graduation one, no typos, feedback implemented, good format, etc)
+- Is your CV 100% finished? (Following the CV guidelines, with at least 4 good projects added including the graduation one, no typos, feedback implemented, good format, etc)
 - Are your Linkedin and GitHub profiles (and readme files for projects) in line with the specification from the [Personal brand repo](https://github.com/HackYourFuture/yourpersonalbrand)?
 
 ### To prepare for this interview, you should:
