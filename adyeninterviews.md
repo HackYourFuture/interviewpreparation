@@ -4,6 +4,10 @@
 
 As with every skill, the more you do it, the better you’ll be at it. Yes, the old saying is indeed true: Practice makes perfect — particularly with job interviews. That’s why throughout your studies at HackYourFuture, you will have the opportunity to practice your interviewing skills with recruiters and engineers of one of HYF's main partners and sponsors. 
 
+
+https://user-images.githubusercontent.com/31281197/151940294-eb756e31-a268-4b04-a346-88cbc5fc3bea.mp4
+
+
 This repo is made for [students](https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md#information-for-students) to learn how to prepare for these practices and for [Adyen employees](https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md#information-for-interviewers) to learn best practices and receive a better understanding of what we are trying to achieve with your help.
 
 For a promo video of our collaboration, check this [link](https://youtu.be/D1sOsEymeUs)!
