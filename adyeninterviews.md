@@ -6,6 +6,8 @@ As with every skill, the more you do it, the better you’ll be at it. Yes, the 
 
 This repo is made for [students](https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md#information-for-students) to learn how to prepare for these practices and for [Adyen employees](https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md#information-for-interviewers) to learn best practices and receive a better understanding of what we are trying to achieve with your help.
 
+For a promo video of our collaboration, check this [link](https://youtu.be/D1sOsEymeUs)!
+
 ## Information for Students
 Please go through the information below to make the most out of your mockup interviews!
 
