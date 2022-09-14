@@ -2,9 +2,9 @@
 
 ![InterviewPreparation](assets/interviewgrad.jpg)
 
-To graduate from HackYourFuture, you will have might have to pass a soft-skills graduation interview as well as a technical interview with the HYF team (these could also be combined in only 1 meeting). 
+To graduate from HackYourFuture, you will have to pass a soft-skills graduation interview as well as a technical interview with the HYF team (these could also be combined in only one meeting). 
 
-If you pass these interviews and the graduation project is finalised, you will officially graduate and we will start sending your CV's to companies! Expect a lot of interviews and technical assignments coming your way!
+If you pass these interviews and the graduation project is finalised, you will officially graduate and we will start sending your CVs to companies! Expect a lot of interviews and technical assignments coming your way!
 
 If we think that you are not ready yet, we will discuss your particular situation and come up with a tailored plan for the time to come. The plan really depends on you and what we think you need to improve, but here are some examples as reference:
 
@@ -13,11 +13,11 @@ Example 2: Conduct further interviews with HYF mentors until you reach a good le
 Example 3: Redo the graduation project with another class.
 Example 4: Work in an individual technical assignment while redoing the soft-skills graduation interview.
 
-In this repo we will give you all the information you need so that you can prepare for both these interviews well in advance and graduate as soon as possible.
+In this repo, we will give you all the information you need so that you can prepare for both these interviews well in advance and graduate as soon as possible.
 
 ## PART 1: The soft-skills graduation interview
 
-During this 20 minute conversation, the HYF team will interview you as if you were applying for a junior web developer role at “The HackYourFuture Company” [(See job description here)](https://github.com/HackYourFuture/interviewpreparation/blob/main/jobdescription.md). 
+During a 20 minute conversation, the HYF team will interview you as if you were applying for a junior web developer role at “The HackYourFuture Company” [(See job description here)](https://github.com/HackYourFuture/interviewpreparation/blob/main/jobdescription.md). 
 
 Think of this assessment as an actual interview for a real job with us, where the interviewer can ask you basically any questions. The goal behind this is to assess if you are ready for real interviews and if not, make a plan with you to improve these crucial skills as soon as possible.
 
@@ -48,7 +48,7 @@ Think of this assessment as an actual interview for a real job with us, where th
 
 ## PART 2: The technical graduation assessment
 
-During the project as well as the 30-40 minute interview at the end, the HYF team will look at the level of your technical skills. The final interview will be, as in all the tech interviews in the curriculum, as close to real world tech interviews as possible.
+During the project as well, as the 30-40 minute interview at the end, the HYF team will look at the level of your technical skills. The final interview will be, as in all the tech interviews in the curriculum, as close to real world tech interviews as possible.
 
 ### Interview steps
 - We will ask you to explain a couple of tech concepts. This can be anything that was mentioned in the curriculum
