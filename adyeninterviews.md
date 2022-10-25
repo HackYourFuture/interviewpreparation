@@ -4,7 +4,7 @@
 
 As with every skill, the more you do it, the better you’ll be at it. Yes, the old saying is indeed true: Practice makes perfect — particularly with job interviews. That’s why throughout your studies at HackYourFuture, you will have the opportunity to practice your interviewing skills with recruiters and engineers of one of HYF's main partners and sponsors. 
 
-This repo is made for [students](https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md#information-for-students) to learn how to prepare for these practices and for [Adyen employees](https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md#information-for-interviewers) to learn best practices and receive a better understanding of what we are trying to achieve with your help.
+This repo is made for [students](https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md#information-for-students) to learn how to prepare for these practices and for [Adyen employees](https://github.com/HackYourFuture/interviewpreparation/blob/main/adyeninterviews.md#information-for-adyen-interviewers) to learn best practices and receive a better understanding of what we are trying to achieve with your help.
 
 Here a short clip about our collaboration so far:
 
@@ -66,9 +66,9 @@ If you want some guidance for this interview, check [the most common non-technic
 [Here](https://github.com/HackYourFuture/curriculum) you can find the HackYourFuture curriculum with everything students learn throughout the 7-month course. Additionally, we created a list of [the most common technical questions for HYF graduates](https://github.com/HackYourFuture/interviewpreparation/blob/main/technicalquestions.md). You can also find the questions, including answers, in the Google Sheet shared with you by Adyen employees coordinating the mockup interviews.
 
 ### Giving Feedback and other important details
-An Adyen colleague will give you access to a Google Sheet which will include the interview schedule, the interview videoconference link, a list of Social and Tech interviews (with answers), and links to the students' CVs and Feedback Sheets. The interviewers, students and the HackYourFuture organization will have access to the Feedback sheet so that together we can help students become true interview warriors! 
+An Adyen colleague will give you access to a Google Sheet which will include the interview schedule, the interview video conference link, a list of Social and Tech interviews (with answers), and links to the students' CVs and Feedback Sheets. The interviewers, students and the HackYourFuture organization will have access to the Feedback sheet so that together we can help students become true interview warriors! 
 
-Please always remember to fill in this sheet during or right after the interview so the student can refer to it when preparing for the next interviews. Your feedback is crucial for progress. While we expect you to be as constructive as possible with your feedback and aware that this is most likely the first-ever interviews for our students, we also ask you to be critical and to challenge the students so that they improve as much as possible. Finding a job as a developer is not an easy task and the better we help students prepare the better their chances to succeed at it!
+Please always remember to fill in this sheet during or right after the interview so the student can refer to it when preparing for the next interviews. Your feedback is crucial for progress. While we expect you to be as constructive as possible with your feedback and aware that this is most likely the first-ever interview for our students, we also ask you to be critical and to challenge the students so that they improve as much as possible. Finding a job as a developer is not an easy task and the better we help students prepare the better their chances to succeed at it!
 
 ### What if a student is not in the call?
 Feel free to contact the student directly by phone or email. His/her info is included in their CV which you can access through the mockup interview Google Sheet.
