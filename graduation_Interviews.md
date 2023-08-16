@@ -10,7 +10,7 @@ If we think that you are not ready yet, we will discuss your particular situatio
 
 Example 1: Build 1 or 2 technical assignments from real companies in a defined period of time.
 Example 2: Conduct further interviews with HYF mentors until you reach a good level.
-Example 3: Redo the graduation project with another class.
+Example 3: Redo the graduation project with another cohort.
 Example 4: Work in an individual technical assignment while redoing the soft-skills graduation interview.
 
 In this repo, we will give you all the information you need so that you can prepare for both these interviews well in advance and graduate as soon as possible.
